@@ -11,4 +11,7 @@
 
 ## Содержание
 
-- [Урок 01 — Установка и запуск скриптов](lesson_01_intro/)
+- [Модуль 01 — Установка и запуск скриптов](module_01_intro/lesson.md)
+- [Модуль 02 — Переменные, Константы и скалярные типы данных в PHP](module_02_variables_constants_types/lessons.md)
+- [Модуль 03 - Управляющие конструкции и условные операторы в PHP](module_03_control_structures_and_conditions/lessons.md)
+- [Модуль 04 - Массивы в PHP](module_04_arrays/lessons.md)
